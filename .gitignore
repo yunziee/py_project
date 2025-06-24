@@ -8,3 +8,6 @@ _pycache__/
 *.exe
 *.xls
 *.xlsx
+*.txt
+*.log
+*.db
